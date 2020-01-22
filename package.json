@@ -11,7 +11,8 @@
     "url": "git+https://github.com/helissonnas/leite-back.git"
   },
   "keywords": [
-    "node;",
+    "nodejs",
+    "tutorial",
     "postgresql"
   ],
   "author": "helissonnas",
