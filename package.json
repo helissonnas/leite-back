@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/helissonnas/leite-back/issues"
   },
-  "homepage": "https://github.com/helissonnas/leite-back#readme"
+  "homepage": "https://github.com/helissonnas/leite-back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
