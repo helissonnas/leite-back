@@ -1,0 +1,23 @@
+{
+  "name": "leite-back",
+  "version": "0.0.1",
+  "description": "Backend of leite project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helissonnas/leite-back.git"
+  },
+  "keywords": [
+    "node;",
+    "postgresql"
+  ],
+  "author": "helissonnas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helissonnas/leite-back/issues"
+  },
+  "homepage": "https://github.com/helissonnas/leite-back#readme"
+}
